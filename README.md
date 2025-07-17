@@ -1,1 +1,3 @@
 # SYmpHetic.io
+
+# About me
